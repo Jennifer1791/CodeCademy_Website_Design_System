@@ -25,3 +25,28 @@ td{
 #Light_Gray{
     background-color: #D8D5D8;
 }
+.box{
+    display: inline-block;
+}
+#Open_Sans{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+li{
+    height: 50px;
+    width: auto;
+}
+#Merriweather_Sans{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 20px;
+}
+#Philosopher{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 20px;
+}
+#Italic_font{
+    font-style:italic;
+}
+#Bold{
+    font-weight: bold;
+}
