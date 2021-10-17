@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+td{
+    width: 200px;
+    height:200px;
+    /*display: inline-block;*/
+}
+#Light_Green{
+    background-color: #C0D2D4;
+}
+#Dark_Blue{
+    background-color: #2E3244;
+}
+#Gray_Blue{
+    background-color: #576271;
+}
+#Violet{
+    background-color: #AC98AE;
+}
+#Beige{
+    background-color: #D5BDB8;
+}
+#Light_Gray{
+    background-color: #D8D5D8;
+}
